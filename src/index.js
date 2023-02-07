@@ -101,11 +101,6 @@ function translteIntoString(arrOfChunks) {
 }
 
 
-// let mas = splitExpr(expr);
-// let mass = spliceIntoChunks(mas, 10);
-// let massi = translteIntoString(mass);
-
-
 function decode(expr) {
     let mas = splitExpr(expr);
     let mass = spliceIntoChunks(mas, 10);
